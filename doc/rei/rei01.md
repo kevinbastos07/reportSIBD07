@@ -9,7 +9,7 @@ A mesma está dividida em departamentos e cada departamento tem um nome, um núm
 
 ## Modelação do problema
 
-Com este sistema pretendemos solucionar o problema da falta de controlo sobre os produtos alugados em diferentes postos de aluguer.
+Com este sistema pretendemos solucionar a falta de controlo sobre os produtos alugados em diferentes postos de aluguer.
 
 
 ---
