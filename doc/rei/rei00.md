@@ -15,6 +15,6 @@
 * Wilson Oliveira [@WilsonOliveira](https://github.com/marcoamarooliveira)
 
 ---
-_You can add a footer menu for navigation_ 
+
 < Previous | [^ Main](https://github.com/exemploTrabalho/reportSIBD/) | [Next >](rei01.md)
 :--- | :---: | ---: 
