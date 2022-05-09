@@ -9,10 +9,10 @@
 ## Group _07_
 
 
-* Lucas Baptista [@LucasBaptista](https://github.com/marcoamarooliveira)
-* Kevin Bastos [@KevinBastos](https://github.com/marcoamarooliveira)
-* Rúben Novais [@RubenNovais](https://github.com/marcoamarooliveira)
-* Wilson Oliveira [@WilsonOliveira](https://github.com/marcoamarooliveira)
+* Lucas Baptista [@LucasBaptista](https://github.com/Ziimaz)
+* Kevin Bastos [@KevinBastos](https://github.com/kevinbastos07)
+* Rúben Novais [@RubenNovais](https://github.com/r5b2n)
+* Wilson Oliveira [@WilsonOliveira](https://github.com/wilsonoliveira01)
 
 ---
 
