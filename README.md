@@ -1,4 +1,4 @@
-# Relatório de Espicificação da Informação
+# Relatório de Especificação da Informação
 
 # Rent Beach
 
