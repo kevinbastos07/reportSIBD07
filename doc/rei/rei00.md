@@ -8,10 +8,11 @@
 
 ## Group _07_
 
-_Don't forget to add the group elements_
 
-* Marco Amaro Oliveira [@MarcoOliveira](https://github.com/marcoamarooliveira)
-* Other team members
+* Lucas Baptista [@LucasBaptista](https://github.com/marcoamarooliveira)
+* Kevin Bastos [@KevinBastos](https://github.com/marcoamarooliveira)
+* Rúben Novais [@RubenNovais](https://github.com/marcoamarooliveira)
+* Wilson Oliveira [@WilsonOliveira](https://github.com/marcoamarooliveira)
 
 ---
 _You can add a footer menu for navigation_ 
