@@ -11,7 +11,7 @@ Neste trabalho pretendemos melhorar o sistema de uma empresa de aluguer de artig
 
 ## Reports
 
-:[REI](doc/rei/README.md)
+:[REI](doc/rei/rei00.md)
 
 ## Team
 * Lucas Baptista [@LucasBaptista](https://github.com/marcoamarooliveira)
